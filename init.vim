@@ -95,7 +95,7 @@ set shortmess+=c
 set signcolumn=yes
 
 " Themeing
-let g:material_style = 'oceanic'
+let g:material_style = 'default'
 colorscheme vim-material
 hi Pmenu guibg='#00010a' guifg=white                    " popup menu colors
 hi Comment gui=italic cterm=italic                      " italic comments
